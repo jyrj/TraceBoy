@@ -82,7 +82,7 @@ python3 scripts/analyze_logs.py \
 
 ## 📚 Documentation
 
-* **docs/zero-week-readings.md** — 1-hour pre-readings
+* **docs/sip-pre-readings.md** — 1-hour pre-readings
 <!-- * **docs/setup\_instructions.md** — detailed install & build steps -->
 
 ---
